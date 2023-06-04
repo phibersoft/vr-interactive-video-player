@@ -4,10 +4,12 @@
   "description": "VR Interactive Video Player",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint",
+    "dev": "npm run tauri dev",
+    "build": "node ./build.js",
+    "client:dev": "next dev",
+    "client:build": "next build",
+    "client:start": "next start",
+    "client:lint": "next lint",
     "tauri": "tauri"
   },
   "dependencies": {
