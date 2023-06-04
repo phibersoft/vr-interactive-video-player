@@ -1,0 +1,1 @@
+["C:\\Users\\spirn\\Documents\\coding\\javascript\\side\\vr-interactive-video-player\\src-tauri\\target\\debug\\vr-interactive-video-player.exe"] 6/4/2023 7:04 AM
